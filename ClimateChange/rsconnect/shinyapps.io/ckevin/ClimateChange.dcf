@@ -1,0 +1,12 @@
+name: ClimateChange
+title: ClimateChange
+username:
+account: ckevin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 827834
+bundleId: 3038333
+url: https://ckevin.shinyapps.io/ClimateChange/
+when: 1587382386.68607
+asMultiple: FALSE
+asStatic: FALSE
